@@ -1,0 +1,41 @@
+{
+"resultado":{
+{
+    "data": {
+        "requiredDocumentsDeal": [
+            {   "id": 1,
+                "description": "CONSTANCIA DE SERVICIO DE LA DEPENDENCIA"
+            }
+        ],
+        "requiredDocumentsZell": [
+            {
+                "id": 2,
+                "description": "RECIBOS DE NOMINA 1",
+                "typeProduct": 3,
+                "keyDocument": "RN1"
+            },
+            {
+                "id": 3,
+                "description": "ID OFICIAL",
+                "typeProduct": 3,
+                "keyDocument": "IDC"
+            },
+            {
+                "id": 4,
+                "description": "ESTADO DE CUENTA",
+                "typeProduct": 3,
+                "keyDocument": "EDC"
+            },
+            {
+                "id": 5,
+                "description": "ESTADO DE CUENTA 2",
+                "typeProduct": 3,
+                "keyDocument": "EDC2"
+            }
+        ]
+    },
+    "codeHttpStatus": 200,
+    "messageError": ""
+
+}
+}
