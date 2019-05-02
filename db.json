@@ -4,7 +4,9 @@
     "data": {
         "requiredDocumentsDeal": [
             {   "id": 1,
-                "description": "CONSTANCIA DE SERVICIO DE LA DEPENDENCIA"
+                "description": "CONSTANCIA DE SERVICIO DE LA DEPENDENCIA",
+             
+                "keyDocument": "CSD"
             }
         ],
         "requiredDocumentsZell": [
